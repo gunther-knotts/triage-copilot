@@ -1,0 +1,11 @@
+[project]
+name = "triage-copilot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.0",
+    "pygithub>=2.6.1",
+    "python-dotenv>=1.1.0",
+]
